@@ -3,14 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1523381514475">
+      <file name="/Python Console" timestamp="1523381702798">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/pylearn/mail.py" timestamp="1523381617276">
-        <mark key="[" line="22" column="12" />
-        <mark key="]" line="22" column="11" />
-        <mark key="." line="22" column="11" />
-        <mark key="^" line="22" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/pylearn/mail.py" timestamp="1523381723061">
+        <mark key="[" line="21" column="9" />
+        <mark key="]" line="21" column="8" />
+        <mark key="." line="21" column="8" />
+        <mark key="^" line="21" column="8" />
       </file>
     </filemarks>
     <jumps />
