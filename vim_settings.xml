@@ -1,0 +1,48 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Python Console" timestamp="1523377278437">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/pylearn/mail.py" timestamp="1523379240953">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">IyBnZWxsbwo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBnZWxsbwo=</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">aW5vcmVtYXAgZmQgPEVzYz4=</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry encoding="base64">aW5vcmVtYXAgZmQgPEVzYz4=</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
