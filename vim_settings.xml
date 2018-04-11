@@ -6,14 +6,22 @@
       <file name="/Python Console" timestamp="1523448709016">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/R Console" timestamp="1523450216331">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/pylearn/mail.py" timestamp="1523381723061">
         <mark key="[" line="21" column="9" />
         <mark key="]" line="21" column="8" />
         <mark key="." line="21" column="8" />
         <mark key="^" line="21" column="8" />
       </file>
+      <file name="J:/RM/RMFT/RMMOD/MARISKA/BankingBook/calculateVaR.R" timestamp="1523450292475">
+        <mark key="'" line="311" column="0" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="310" column="0" filename="J:/RM/RMFT/RMMOD/MARISKA/BankingBook/calculateVaR.R" />
+    </jumps>
     <registers>
       <register name="1" type="2">
         <text encoding="base64">IyBnZWxsbwo=</text>
@@ -43,6 +51,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
