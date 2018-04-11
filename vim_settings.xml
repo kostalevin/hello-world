@@ -6,31 +6,61 @@
       <file name="/Python Console" timestamp="1523448709016">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/R Console" timestamp="1523450216331">
+      <file name="/R Console" timestamp="1523453903840">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/pylearn/mail.py" timestamp="1523381723061">
-        <mark key="[" line="21" column="9" />
-        <mark key="]" line="21" column="8" />
-        <mark key="." line="21" column="8" />
-        <mark key="^" line="21" column="8" />
+      <file name="$USER_HOME$/PycharmProjects/pylearn/mail.py" timestamp="1523454538702">
+        <mark key="[" line="13" column="5" />
+        <mark key="]" line="13" column="10" />
+        <mark key="." line="13" column="5" />
+        <mark key="^" line="19" column="0" />
       </file>
-      <file name="J:/RM/RMFT/RMMOD/MARISKA/BankingBook/calculateVaR.R" timestamp="1523450292475">
-        <mark key="'" line="311" column="0" />
+      <file name="J:/RM/RMFT/RMMOD/MARISKA/BankingBook/calculateVaR.R" timestamp="1523454695695">
+        <mark key="'" line="99" column="0" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
     </filemarks>
     <jumps>
       <jump line="310" column="0" filename="J:/RM/RMFT/RMMOD/MARISKA/BankingBook/calculateVaR.R" />
+      <jump line="72" column="0" filename="J:/RM/RMFT/RMMOD/MARISKA/BankingBook/calculateVaR.R" />
+      <jump line="79" column="2" filename="J:/RM/RMFT/RMMOD/MARISKA/BankingBook/calculateVaR.R" />
+      <jump line="77" column="0" filename="J:/RM/RMFT/RMMOD/MARISKA/BankingBook/calculateVaR.R" />
+      <jump line="73" column="0" filename="J:/RM/RMFT/RMMOD/MARISKA/BankingBook/calculateVaR.R" />
+      <jump line="78" column="0" filename="J:/RM/RMFT/RMMOD/MARISKA/BankingBook/calculateVaR.R" />
+      <jump line="75" column="0" filename="J:/RM/RMFT/RMMOD/MARISKA/BankingBook/calculateVaR.R" />
+      <jump line="100" column="0" filename="J:/RM/RMFT/RMMOD/MARISKA/BankingBook/calculateVaR.R" />
+      <jump line="93" column="0" filename="J:/RM/RMFT/RMMOD/MARISKA/BankingBook/calculateVaR.R" />
+      <jump line="99" column="0" filename="J:/RM/RMFT/RMMOD/MARISKA/BankingBook/calculateVaR.R" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">IyBnZWxsbwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">cnZlciA=</text>
       </register>
-      <register name="&quot;" type="2">
+      <register name="1" type="2">
+        <text encoding="base64">QGFob2oK</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cnZlciA=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aWYoYSBpbiBiKSB7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBhc2RmCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">IyBnZWxsbwo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">aW5vcmVtYXAgZmQgPEVzYz4=</text>
+        <text>help</text>
+      </register>
+      <register name="-" type="4">
+        <text>j</text>
       </register>
     </registers>
     <search>
@@ -41,6 +71,7 @@
       <history-search />
       <history-cmd>
         <entry encoding="base64">aW5vcmVtYXAgZmQgPEVzYz4=</entry>
+        <entry>help</entry>
       </history-cmd>
       <history-expr />
       <history-input />
