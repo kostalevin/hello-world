@@ -6,7 +6,8 @@
       <file name="/R Console" timestamp="1523453903840">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/pylearn/mail.py" timestamp="1523530598920">
+      <file name="$USER_HOME$/PycharmProjects/pylearn/mail.py" timestamp="1523531253675">
+        <mark key="'" line="5" column="0" />
         <mark key="[" line="1" column="19" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -33,6 +34,7 @@
       <jump line="15" column="6" filename="$USER_HOME$/PycharmProjects/pylearn/mail.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/pylearn/mail.py" />
       <jump line="29" column="0" filename="$USER_HOME$/PycharmProjects/pylearn/mail.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/PycharmProjects/pylearn/mail.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
