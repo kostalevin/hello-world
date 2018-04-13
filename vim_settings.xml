@@ -9,13 +9,14 @@
       <file name="/R Console" timestamp="1523453903840">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/pylearn/mail.py" timestamp="1523610698176">
+      <file name="$USER_HOME$/PycharmProjects/pylearn/mail.py" timestamp="1523615902897">
         <mark key="b" line="16" column="0" />
-        <mark key="'" line="24" column="1" />
+        <mark key="'" line="20" column="8" />
         <mark key="k" line="6" column="4" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+        <mark key="[" line="20" column="2" />
+        <mark key="]" line="20" column="1" />
+        <mark key="." line="20" column="1" />
+        <mark key="^" line="20" column="1" />
       </file>
       <file name="J:/RM/RMFT/RMMOD/MARISKA/BankingBook/calculateVaR.R" timestamp="1523454695695">
         <mark key="'" line="99" column="0" />
@@ -39,11 +40,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/pylearn/mail.py" />
       <jump line="29" column="0" filename="$USER_HOME$/PycharmProjects/pylearn/mail.py" />
       <jump line="5" column="0" filename="$USER_HOME$/PycharmProjects/pylearn/mail.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/PycharmProjects/pylearn/mail.py" />
       <jump line="10" column="5" filename="$USER_HOME$/PycharmProjects/pylearn/mail.py" />
       <jump line="13" column="0" filename="$USER_HOME$/PycharmProjects/pylearn/mail.py" />
       <jump line="12" column="0" filename="$USER_HOME$/PycharmProjects/pylearn/mail.py" />
       <jump line="24" column="1" filename="$USER_HOME$/PycharmProjects/pylearn/mail.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/PycharmProjects/pylearn/mail.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/PycharmProjects/pylearn/mail.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/PycharmProjects/pylearn/mail.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/PycharmProjects/pylearn/mail.py" />
+      <jump line="20" column="8" filename="$USER_HOME$/PycharmProjects/pylearn/mail.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
