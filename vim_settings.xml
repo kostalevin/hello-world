@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1523610258312">
+      <file name="/start_script.py" timestamp="1523610707626">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/R Console" timestamp="1523453903840">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/pylearn/mail.py" timestamp="1523610652643">
+      <file name="$USER_HOME$/PycharmProjects/pylearn/mail.py" timestamp="1523610698176">
         <mark key="b" line="16" column="0" />
         <mark key="'" line="24" column="1" />
         <mark key="k" line="6" column="4" />
@@ -83,7 +83,7 @@
         <text encoding="base64">aWYoYSBpbiBiKSB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>marks</text>
+        <text>help</text>
       </register>
     </registers>
     <search>
@@ -94,8 +94,8 @@
       <history-search />
       <history-cmd>
         <entry encoding="base64">aW5vcmVtYXAgZmQgPEVzYz4=</entry>
-        <entry>help</entry>
         <entry>marks</entry>
+        <entry>help</entry>
       </history-cmd>
       <history-expr />
       <history-input />
