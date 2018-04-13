@@ -9,14 +9,14 @@
       <file name="/R Console" timestamp="1523453903840">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/pylearn/mail.py" timestamp="1523615902897">
+      <file name="$USER_HOME$/PycharmProjects/pylearn/mail.py" timestamp="1523617488978">
         <mark key="b" line="16" column="0" />
-        <mark key="'" line="20" column="8" />
+        <mark key="'" line="19" column="29" />
         <mark key="k" line="6" column="4" />
-        <mark key="[" line="20" column="2" />
-        <mark key="]" line="20" column="1" />
-        <mark key="." line="20" column="1" />
-        <mark key="^" line="20" column="1" />
+        <mark key="[" line="24" column="6" />
+        <mark key="]" line="24" column="7" />
+        <mark key="." line="24" column="7" />
+        <mark key="^" line="19" column="44" />
       </file>
       <file name="J:/RM/RMFT/RMMOD/MARISKA/BankingBook/calculateVaR.R" timestamp="1523454695695">
         <mark key="'" line="99" column="0" />
@@ -45,17 +45,17 @@
       <jump line="12" column="0" filename="$USER_HOME$/PycharmProjects/pylearn/mail.py" />
       <jump line="24" column="1" filename="$USER_HOME$/PycharmProjects/pylearn/mail.py" />
       <jump line="18" column="0" filename="$USER_HOME$/PycharmProjects/pylearn/mail.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/PycharmProjects/pylearn/mail.py" />
       <jump line="22" column="0" filename="$USER_HOME$/PycharmProjects/pylearn/mail.py" />
       <jump line="21" column="0" filename="$USER_HOME$/PycharmProjects/pylearn/mail.py" />
-      <jump line="20" column="8" filename="$USER_HOME$/PycharmProjects/pylearn/mail.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/PycharmProjects/pylearn/mail.py" />
+      <jump line="19" column="29" filename="$USER_HOME$/PycharmProjects/pylearn/mail.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIGdyYWRlMihzY29yZSwgYnJlYWtzPVs4MCwgOTBdLCBncmFkZXM9J0NEQScpOgogICAgaSA9IGJpc2VjdC5iaXNlY3QoYnJlYWtzLCBzY29yZSkKICAgIHJldHVybiBncmFkZXNbaV0KCgo=</text>
+      <register name="&quot;" type="4">
+        <text>DCA</text>
       </register>
       <register name="-" type="4">
-        <text>brakes</text>
+        <text>DCA</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVmIGdyYWRlKHNjb3JlLCBicmVha3M9WzgwLCA5MF0sIGdyYWRlcz0nQ0RBJyk6CiAgICBpID0gYmlzZWN0LmJpc2VjdChicmVha3MsIHNjb3JlKQogICAgcmV0dXJuIGdyYWRlc1tpXQo=</text>
@@ -88,7 +88,7 @@
         <text encoding="base64">aWYoYSBpbiBiKSB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>help</text>
+        <text encoding="base64">bWFwIHY8U3BhY2U+IHZ7b30=</text>
       </register>
     </registers>
     <search>
@@ -101,6 +101,7 @@
         <entry encoding="base64">aW5vcmVtYXAgZmQgPEVzYz4=</entry>
         <entry>marks</entry>
         <entry>help</entry>
+        <entry encoding="base64">bWFwIHY8U3BhY2U+IHZ7b30=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
