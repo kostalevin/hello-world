@@ -6,6 +6,9 @@
       <file name="/start_script.py" timestamp="1523610707626">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1523868045028">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Python Console" timestamp="1523864322048">
         <mark key="[" line="0" column="0" />
       </file>
@@ -15,14 +18,10 @@
       <file name="/R Console" timestamp="1523864357503">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/pylearn/mail.py" timestamp="1523617488978">
-        <mark key="b" line="16" column="0" />
-        <mark key="'" line="19" column="29" />
-        <mark key="k" line="6" column="4" />
-        <mark key="[" line="24" column="6" />
-        <mark key="]" line="24" column="7" />
-        <mark key="." line="24" column="7" />
-        <mark key="^" line="19" column="44" />
+      <file name="$USER_HOME$/PycharmProjects/pylearn/mail.py" timestamp="1523867902085">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="J:/RM/RMFT/RMMOD/MARISKA/BankingBook/calculateVaR.R" timestamp="1523454695695">
         <mark key="'" line="99" column="0" />
@@ -58,7 +57,31 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DCA</text>
+        <text>import bisect
+
+import collections
+
+s = 'a b c'.split()
+
+Card = collections.namedtuple()
+
+ranks = [rank for rank in range(2, 10)]
+ranks.index(2)
+sorted
+[iter(range(2, 5))]
+
+colors = ['black', 'red', 'green']
+sizes = ['s', 'm', 'l']
+
+colors.sort(key=lambda x: x[1])
+
+
+def grade(score, breaks=[80, 70], grades='CBA'):
+    i = bisect.bisect(breaks, score)
+    return grades[i]
+
+
+grade(70)</text>
       </register>
       <register name="-" type="4">
         <text>DCA</text>
@@ -66,32 +89,56 @@
       <register name="0" type="2">
         <text encoding="base64">ZGVmIGdyYWRlKHNjb3JlLCBicmVha3M9WzgwLCA5MF0sIGdyYWRlcz0nQ0RBJyk6CiAgICBpID0gYmlzZWN0LmJpc2VjdChicmVha3MsIHNjb3JlKQogICAgcmV0dXJuIGdyYWRlc1tpXQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZGVmIGdyYWRlMihzY29yZSwgYnJlYWtzPVs4MCwgOTBdLCBncmFkZXM9J0NEQScpOgogICAgaSA9IGJpc2VjdC5iaXNlY3QoYnJlYWtzLCBzY29yZSkKICAgIHJldHVybiBncmFkZXNbaV0KCgo=</text>
+      <register name="1" type="4">
+        <text>import bisect
+
+import collections
+
+s = 'a b c'.split()
+
+Card = collections.namedtuple()
+
+ranks = [rank for rank in range(2, 10)]
+ranks.index(2)
+sorted
+[iter(range(2, 5))]
+
+colors = ['black', 'red', 'green']
+sizes = ['s', 'm', 'l']
+
+colors.sort(key=lambda x: x[1])
+
+
+def grade(score, breaks=[80, 70], grades='CBA'):
+    i = bisect.bisect(breaks, score)
+    return grades[i]
+
+
+grade(70)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YmlzZWN0Cg==</text>
+        <text encoding="base64">ZGVmIGdyYWRlMihzY29yZSwgYnJlYWtzPVs4MCwgOTBdLCBncmFkZXM9J0NEQScpOgogICAgaSA9IGJpc2VjdC5iaXNlY3QoYnJlYWtzLCBzY29yZSkKICAgIHJldHVybiBncmFkZXNbaV0KCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29sb3JzID0gWydibGFjaycsICdyZWQnLCAnZ3JlZW4nXQo=</text>
+        <text encoding="base64">YmlzZWN0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBhZGZmCg==</text>
+        <text encoding="base64">Y29sb3JzID0gWydibGFjaycsICdyZWQnLCAnZ3JlZW4nXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHNtdHBsaWIKCgpkZWYgc2VuZGVtYWlsKGZyb21fYWRkciwgdG9fYWRkcl9saXN0LCBjY19hZGRyX2xpc3QsCiAgICAgICAgICAgICAgc3ViamVjdCwgbWVzc2FnZSwKICAgICAgICAgICAgICBsb2dpbiwgcGFzc3dvcmQsCiAgICAgICAgICAgICAgc210cHNlcnZlcj0nc210cC5nbWFpbC5jb206NTg3Jyk6CiAgICBoZWFkZXIgPSAnRnJvbTogJXNcbicgJSBmcm9tX2FkZHIKICAgIGhlYWRlciArPSAnVG86ICVzXG4nICUgJywnLmpvaW4odG9fYWRkcl9saXN0KQogICAgaGVhZGVyICs9ICdDYzogJXNcbicgJSAnLCcuam9pbihjY19hZGRyX2xpc3QpCiAgICBoZWFkZXIgKz0gJ1N1YmplY3Q6ICVzXG5cbicgJSBzdWJqZWN0CiAgICBtZXNzYWdlID0gaGVhZGVyICsgbWVzc2FnZQoKICAgIHNlcnZlciA9IHNtdHBsaWIuU01UUChzbXRwc2VydmVyKQogICAgc2VydmVyLnN0YXJ0dGxzKCkKICAgIHNlcnZlci5sb2dpbihsb2dpbiwgcGFzc3dvcmQpCiAgICBwcm9ibGVtcyA9IHNlcnZlci5zZW5kbWFpbChmcm9tX2FkZHIsIHRvX2FkZHJfbGlzdCwgbWVzc2FnZSkKICAgIHNlcnZlci5xdWl0KCkKICAgIHJldHVybiBwcm9ibGVtcwoKCkBhaG8Kc2VuZG1haWwoKQpjbGFzcyBNeUNsYXNzOgogICAgIiIiVGhpcyBpcyBjbGFzcy4iIiIKICAgIGxsbygpCgpzZGZzCmZzZQpmc2VmCg==</text>
+        <text encoding="base64">IyBhZGZmCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHNtdHBsaWIKCgpkZWYgc2VuZGVtYWlsKGZyb21fYWRkciwgdG9fYWRkcl9saXN0LCBjY19hZGRyX2xpc3QsCiAgICAgICAgICAgICAgc3ViamVjdCwgbWVzc2FnZSwKICAgICAgICAgICAgICBsb2dpbiwgcGFzc3dvcmQsCiAgICAgICAgICAgICAgc210cHNlcnZlcj0nc210cC5nbWFpbC5jb206NTg3Jyk6CiAgICBoZWFkZXIgPSAnRnJvbTogJXNcbicgJSBmcm9tX2FkZHIKICAgIGhlYWRlciArPSAnVG86ICVzXG4nICUgJywnLmpvaW4odG9fYWRkcl9saXN0KQogICAgaGVhZGVyICs9ICdDYzogJXNcbicgJSAnLCcuam9pbihjY19hZGRyX2xpc3QpCiAgICBoZWFkZXIgKz0gJ1N1YmplY3Q6ICVzXG5cbicgJSBzdWJqZWN0CiAgICBtZXNzYWdlID0gaGVhZGVyICsgbWVzc2FnZQoKICAgIHNlcnZlciA9IHNtdHBsaWIuU01UUChzbXRwc2VydmVyKQogICAgc2VydmVyLnN0YXJ0dGxzKCkKICAgIHNlcnZlci5sb2dpbihsb2dpbiwgcGFzc3dvcmQpCiAgICBwcm9ibGVtcyA9IHNlcnZlci5zZW5kbWFpbChmcm9tX2FkZHIsIHRvX2FkZHJfbGlzdCwgbWVzc2FnZSkKICAgIHNlcnZlci5xdWl0KCkKICAgIHJldHVybiBwcm9ibGVtcwoKCkBhaG8Kc2VuZG1haWwoKQpjbGFzcyBNeUNsYXNzOgogICAgIiIiVGhpcyBpcyBjbGFzcy4iIiIKICAgIGxsbygpCgo=</text>
+        <text encoding="base64">aW1wb3J0IHNtdHBsaWIKCgpkZWYgc2VuZGVtYWlsKGZyb21fYWRkciwgdG9fYWRkcl9saXN0LCBjY19hZGRyX2xpc3QsCiAgICAgICAgICAgICAgc3ViamVjdCwgbWVzc2FnZSwKICAgICAgICAgICAgICBsb2dpbiwgcGFzc3dvcmQsCiAgICAgICAgICAgICAgc210cHNlcnZlcj0nc210cC5nbWFpbC5jb206NTg3Jyk6CiAgICBoZWFkZXIgPSAnRnJvbTogJXNcbicgJSBmcm9tX2FkZHIKICAgIGhlYWRlciArPSAnVG86ICVzXG4nICUgJywnLmpvaW4odG9fYWRkcl9saXN0KQogICAgaGVhZGVyICs9ICdDYzogJXNcbicgJSAnLCcuam9pbihjY19hZGRyX2xpc3QpCiAgICBoZWFkZXIgKz0gJ1N1YmplY3Q6ICVzXG5cbicgJSBzdWJqZWN0CiAgICBtZXNzYWdlID0gaGVhZGVyICsgbWVzc2FnZQoKICAgIHNlcnZlciA9IHNtdHBsaWIuU01UUChzbXRwc2VydmVyKQogICAgc2VydmVyLnN0YXJ0dGxzKCkKICAgIHNlcnZlci5sb2dpbihsb2dpbiwgcGFzc3dvcmQpCiAgICBwcm9ibGVtcyA9IHNlcnZlci5zZW5kbWFpbChmcm9tX2FkZHIsIHRvX2FkZHJfbGlzdCwgbWVzc2FnZSkKICAgIHNlcnZlci5xdWl0KCkKICAgIHJldHVybiBwcm9ibGVtcwoKCkBhaG8Kc2VuZG1haWwoKQpjbGFzcyBNeUNsYXNzOgogICAgIiIiVGhpcyBpcyBjbGFzcy4iIiIKICAgIGxsbygpCgpzZGZzCmZzZQpmc2VmCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QGFob2oK</text>
+        <text encoding="base64">aW1wb3J0IHNtdHBsaWIKCgpkZWYgc2VuZGVtYWlsKGZyb21fYWRkciwgdG9fYWRkcl9saXN0LCBjY19hZGRyX2xpc3QsCiAgICAgICAgICAgICAgc3ViamVjdCwgbWVzc2FnZSwKICAgICAgICAgICAgICBsb2dpbiwgcGFzc3dvcmQsCiAgICAgICAgICAgICAgc210cHNlcnZlcj0nc210cC5nbWFpbC5jb206NTg3Jyk6CiAgICBoZWFkZXIgPSAnRnJvbTogJXNcbicgJSBmcm9tX2FkZHIKICAgIGhlYWRlciArPSAnVG86ICVzXG4nICUgJywnLmpvaW4odG9fYWRkcl9saXN0KQogICAgaGVhZGVyICs9ICdDYzogJXNcbicgJSAnLCcuam9pbihjY19hZGRyX2xpc3QpCiAgICBoZWFkZXIgKz0gJ1N1YmplY3Q6ICVzXG5cbicgJSBzdWJqZWN0CiAgICBtZXNzYWdlID0gaGVhZGVyICsgbWVzc2FnZQoKICAgIHNlcnZlciA9IHNtdHBsaWIuU01UUChzbXRwc2VydmVyKQogICAgc2VydmVyLnN0YXJ0dGxzKCkKICAgIHNlcnZlci5sb2dpbihsb2dpbiwgcGFzc3dvcmQpCiAgICBwcm9ibGVtcyA9IHNlcnZlci5zZW5kbWFpbChmcm9tX2FkZHIsIHRvX2FkZHJfbGlzdCwgbWVzc2FnZSkKICAgIHNlcnZlci5xdWl0KCkKICAgIHJldHVybiBwcm9ibGVtcwoKCkBhaG8Kc2VuZG1haWwoKQpjbGFzcyBNeUNsYXNzOgogICAgIiIiVGhpcyBpcyBjbGFzcy4iIiIKICAgIGxsbygpCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">QGFob2oK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aWYoYSBpbiBiKSB7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">bWFwIHY8U3BhY2U+IHZ7b30=</text>
