@@ -18,11 +18,11 @@
       <file name="/R Console" timestamp="1523864357503">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/pylearn/mail.py" timestamp="1524149584056">
-        <mark key="[" line="12" column="19" />
-        <mark key="]" line="12" column="20" />
-        <mark key="." line="12" column="20" />
-        <mark key="^" line="12" column="12" />
+      <file name="$USER_HOME$/PycharmProjects/pylearn/mail.py" timestamp="1524150873548">
+        <mark key="[" line="13" column="5" />
+        <mark key="]" line="13" column="5" />
+        <mark key="." line="13" column="4" />
+        <mark key="^" line="13" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -51,14 +51,14 @@
       <jump line="19" column="29" filename="$USER_HOME$/PycharmProjects/pylearn/mail.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>[</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YSA9IFsxLDIsMyw0XQpjbGFzcyBmOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGEpOgogICAgICAgIHNlbGYuYSA9IGEKICAgICAgICBzZWxmLmEgPSBhICsgWzFdCmI9ZihhKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGdyYWRlKHNjb3JlLCBicmVha3M9WzgwLCA5MF0sIGdyYWRlcz0nQ0RBJyk6CiAgICBpID0gYmlzZWN0LmJpc2VjdChicmVha3MsIHNjb3JlKQogICAgcmV0dXJuIGdyYWRlc1tpXQo=</text>
+        <text encoding="base64">YSA9IFsxLDIsMyw0XQpjbGFzcyBmOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGEpOgogICAgICAgIHNlbGYuYSA9IGEKICAgICAgICBzZWxmLmEgPSBhICsgWzFdCmI9ZihhKQo=</text>
       </register>
       <register name="1" type="4">
         <text>import bisect
@@ -142,6 +142,9 @@ grade(70)</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
