@@ -12,20 +12,17 @@
       <file name="/code.py" timestamp="1524143805061">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1523871947150">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="J:/RM/RMFT/RMMOD/MARISKA/BankingBook/test.R" timestamp="1523864387803">
         <mark key="[" line="4" column="0" />
       </file>
       <file name="/R Console" timestamp="1523864357503">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/pylearn/mail.py" timestamp="1524052173309">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="13" />
-        <mark key="." line="6" column="13" />
-        <mark key="^" line="6" column="13" />
+      <file name="$USER_HOME$/PycharmProjects/pylearn/mail.py" timestamp="1524149584056">
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="20" />
+        <mark key="." line="12" column="20" />
+        <mark key="^" line="12" column="12" />
       </file>
     </filemarks>
     <jumps>
@@ -55,34 +52,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>import bisect
-
-import collections
-
-s = 'a b c'.split()
-
-Card = collections.namedtuple()
-
-ranks = [rank for rank in range(2, 10)]
-ranks.index(2)
-sorted
-[iter(range(2, 5))]
-
-colors = ['black', 'red', 'green']
-sizes = ['s', 'm', 'l']
-
-colors.sort(key=lambda x: x[1])
-
-
-def grade(score, breaks=[80, 70], grades='CBA'):
-    i = bisect.bisect(breaks, score)
-    return grades[i]
-
-
-grade(70)</text>
+        <text>[</text>
       </register>
       <register name="-" type="4">
-        <text>DCA</text>
+        <text>[</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVmIGdyYWRlKHNjb3JlLCBicmVha3M9WzgwLCA5MF0sIGdyYWRlcz0nQ0RBJyk6CiAgICBpID0gYmlzZWN0LmJpc2VjdChicmVha3MsIHNjb3JlKQogICAgcmV0dXJuIGdyYWRlc1tpXQo=</text>
